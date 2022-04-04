@@ -1,0 +1,182 @@
+﻿Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.InstallLog
+   assemblypath = C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe

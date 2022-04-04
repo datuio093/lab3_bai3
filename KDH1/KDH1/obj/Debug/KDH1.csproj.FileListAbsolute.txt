@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe.config
+C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.exe
+C:\Users\LENOVO\Desktop\KDH1\KDH1\bin\Debug\KDH1.pdb
+C:\Users\LENOVO\Desktop\KDH1\KDH1\obj\Debug\KDH1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\KDH1\KDH1\obj\Debug\KDH1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\KDH1\KDH1\obj\Debug\KDH1.ProjectInstaller.resources
+C:\Users\LENOVO\Desktop\KDH1\KDH1\obj\Debug\KDH1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\KDH1\KDH1\obj\Debug\KDH1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\KDH1\KDH1\obj\Debug\KDH1.exe
+C:\Users\LENOVO\Desktop\KDH1\KDH1\obj\Debug\KDH1.pdb
